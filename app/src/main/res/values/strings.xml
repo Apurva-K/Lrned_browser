@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="check_connection">Please check internet connection</string>
+    <string name="str_switch_to_chrome_type_browser">Switch To Chrome type browser</string>
+    <string name="str_hint_enter_url">Enter URL</string>
+    <string name="str_go">GO</string>
+    <string-array name="search_Engines">
+        <item>Select Search Engine</item>
+        <item>Google</item>
+        <item>Bing</item>
+        <item>Yahoo</item>
+    </string-array>
+</resources>
